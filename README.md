@@ -14,15 +14,18 @@ This extension will add a **Verity** gamemode! In this gamemode, Verity will ran
 | Who Can See Verity  | Crewmates / Non-Crewmates / Everyone / No One  | Determines who can see Verity lurking in the ship! |
 | Public Responses  | Always / If Specified / Never  | Determines if Verity's responses in meetings are always readable by everyone, only if the sender allows it, or never. |
 
-## We [Love](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building) [AI](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building)!
-An [AI extension](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building) may be added in the future, allowing you to talk to [an AI model](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building) yourself in Among Us!
+## We Love AI!
+In the future, we are looking at adding an AI into the game as Verity, allowing you to chat with an AI in the middle of discussing who killed Red!
 > [!IMPORTANT]
 > <details>
 > <summary>Before you hate...</summary>
 >
 > * [38,000 ChatGPT queries use as much water as the production of one almond](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building)
+> 
 > * AI Art (drawing, music etc) is bad. But this is for fun! It barely uses that much resources.
+> 
 > * If this is implemented, a *mandatory* screen asking users to opt in to have their information (general in-game location, name, basic information about your Among Us account) be used. If you don't like it, you aren't forced to use it!
+>
 > </details>
 
 # License
